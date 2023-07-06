@@ -2,6 +2,7 @@ This repository was created for self learning purpose.
 - References:
    -  https://www.youtube.com/watch?v=1xo-0gCVhTU&list=PLCOzDPP_yQKiVcDr2ywEsfki6ZPKXpeoC&index=5&ab_channel=JamesQuigley
    - https://www.youtube.com/watch?v=d6WC5n9G_sM&ab_channel=freeCodeCamp.org
+   - https://www.youtube.com/watch?v=y_vy9NVeCzo&ab_channel=CloudWithRaj
 
 ## #  Kubernetes
 
