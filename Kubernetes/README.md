@@ -43,8 +43,13 @@ This repository was created for self learning purpose.
 
 
 - For running locally, we need to install kubectl and minikube
-`Minikube:  creates a VM on your local machine and deploys a simple cluster containing only one node`
+`Minikube:  creates a VM on your local machine and deploys a simple cluster containing only one node.`
+
+
 `kubectl: interacts with both the node AND the container, it is like the command line to interact with the cluster.`
+
+
+## Architecture explanation
 
 ![recap kubernetes](../imgs/k8s-recap.png)
 
